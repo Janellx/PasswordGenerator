@@ -1,8 +1,8 @@
 <h1>Password Generator</h1>
 
 <h2>Description</h2>
-In this project I created a random password generator using HTML, CSS, and Javascript. This project will generate a strong password using uppercase,numbers, and/or symbols. 
-User is given the option to create the length of the password, using the slidebar or input a value.
+In this project, I created a random password generator using HTML, CSS, and Javascript. This project will generate a strong password using uppercase, numbers, and/or symbols. 
+The user is given the option to create the length of the password, using the slide bar or input a value.
 <br/>
 
 
@@ -28,7 +28,7 @@ Launch index.html :
 <br />
 
 <p align = "center">
-Move slidebar to desired length:
+Move slider to desired length:
 <br/>
 <br/>
 <img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHYzOWs3M281cXczenRyamNrcmtqeHFoOXIxNXNjY3loeXp3Mjl6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HSnLYV5bIhLDyYnYde/giphy.gif" height="80%" width="80%" alt="s"/>
